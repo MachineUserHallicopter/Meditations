@@ -49,4 +49,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 title: meditations
-baseurl: '/meditations/' # name of the repository
+baseurl: '/meditations' # name of the repository
