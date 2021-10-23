@@ -48,5 +48,5 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-title: Official Internetblog Blog
+title: InternetblogCo
 baseurl: '/official' # name of the repository
