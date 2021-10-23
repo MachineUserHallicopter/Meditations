@@ -2,7 +2,7 @@
 
 #title: InternetBlogCo
 #baseurl: '/testing/' # name of the repository
-email: your@email.com
+email: advait.raykar@gmail.com
 
 
 
@@ -48,5 +48,5 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-title: meditations
-baseurl: '/meditations' # name of the repository
+title: Official Internetblog Blog
+baseurl: '/official' # name of the repository
